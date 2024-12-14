@@ -1,3 +1,0 @@
-/home/juliane/HPC/Ants/CMakeFiles/rebuild_cache.dir
-/home/juliane/HPC/Ants/CMakeFiles/edit_cache.dir
-/home/juliane/HPC/Ants/CMakeFiles/ants.dir
